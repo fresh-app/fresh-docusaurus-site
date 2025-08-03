@@ -4015,8 +4015,8 @@ packages:
   react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
 
-  react-json-view-lite@2.4.1:
-    resolution: {integrity: sha512-fwFYknRIBxjbFm0kBDrzgBy1xa5tDg2LyXXBepC5f1b+MY3BUClMCsvanMPn089JbV1Eg3nZcrp0VCuH43aXnA==}
+  react-json-view-lite@2.4.2:
+    resolution: {integrity: sha512-m7uTsXDgPQp8R9bJO4HD/66+i218eyQPAb+7/dGQpwg8i4z2afTFqtHJPQFHvJfgDCjGQ1HSGlL3HtrZDa3Tdg==}
     engines: {node: '>=18'}
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
@@ -6305,7 +6305,7 @@ snapshots:
       fs-extra: 11.3.0
       react: 19.1.1
       react-dom: 19.1.1(react@19.1.1)
-      react-json-view-lite: 2.4.1(react@19.1.1)
+      react-json-view-lite: 2.4.2(react@19.1.1)
       tslib: 2.8.1
     transitivePeerDependencies:
       - '@docusaurus/faster'
@@ -10101,7 +10101,7 @@ snapshots:
 
   react-is@16.13.1: {}
 
-  react-json-view-lite@2.4.1(react@19.1.1):
+  react-json-view-lite@2.4.2(react@19.1.1):
     dependencies:
       react: 19.1.1
 
