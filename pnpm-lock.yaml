@@ -45,8 +45,8 @@ importers:
 
 packages:
 
-  '@ai-sdk/gateway@2.0.11':
-    resolution: {integrity: sha512-B0Vt2Xv88Lo9rg861Oyzq/SdTmT4LiqdjkpOxpSPpNk8Ih5TXTgyDAsV/qW14N6asPdK1YI5PosFLnVzfK5LrA==}
+  '@ai-sdk/gateway@2.0.12':
+    resolution: {integrity: sha512-W+cB1sOWvPcz9qiIsNtD+HxUrBUva2vWv2K1EFukuImX+HA0uZx3EyyOjhYQ9gtf/teqEG80M6OvJ7xx/VLV2A==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.25.76 || ^4.1.8
@@ -61,8 +61,8 @@ packages:
     resolution: {integrity: sha512-6o7Y2SeO9vFKB8lArHXehNuusnpddKPk7xqL7T2/b+OvXMRIXUO1rR4wcv1hAFUAT9avGZshty3Wlua/XA7TvA==}
     engines: {node: '>=18'}
 
-  '@ai-sdk/react@2.0.95':
-    resolution: {integrity: sha512-dczIP6Za4WgGbAHoSCGJ0hfhUqPFqZiXCXgq1YTRGjTIGPJjwy8OIZPoFZ7fLuS/CpzVdKsEhqVsEE3Nl009iA==}
+  '@ai-sdk/react@2.0.97':
+    resolution: {integrity: sha512-mFfD2OQ+YVwXoCwJUIRdVSQ4XRPxKl/cJwvjKHDGoUlhIoSd58vEjCbj5rlDXGAHcPit6OR0bJT7oINc/mT90w==}
     engines: {node: '>=18'}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
@@ -1579,8 +1579,8 @@ packages:
   '@ungap/structured-clone@1.3.0':
     resolution: {integrity: sha512-WmoN8qaIAo7WTYWbAZuG8PYEhn5fkz7dZrqTBZ7dtt//lL2Gwms1IcnQ5yHqjDfX8Ft5j4YzDM23f87zBfDe9g==}
 
-  '@vercel/oidc@3.0.3':
-    resolution: {integrity: sha512-yNEQvPcVrK9sIe637+I0jD6leluPxzwJKx/Haw6F4H77CdDsszUn5V3o96LPziXkSNE2B83+Z3mjqGKBK/R6Gg==}
+  '@vercel/oidc@3.0.5':
+    resolution: {integrity: sha512-fnYhv671l+eTTp48gB4zEsTW/YtRgRPnkI2nT7x6qw5rkI1Lq2hTmQIpHPgyThI0znLK+vX2n9XxKdXZ7BUbbw==}
     engines: {node: '>= 20'}
 
   '@webassemblyjs/ast@1.14.1':
@@ -1666,8 +1666,8 @@ packages:
     resolution: {integrity: sha512-4I7Td01quW/RpocfNayFdFVk1qSuoh0E7JrbRJ16nH01HhKFQ88INq9Sd+nd72zqRySlr9BmDA8xlEJ6vJMrYA==}
     engines: {node: '>=8'}
 
-  ai@5.0.95:
-    resolution: {integrity: sha512-dsvFdYMeGP08zuUQkhKO1UMMXMCb+nro9ZmDdwaAkkTlCGkP3u1S+xaRUDNayu/c0KVkiTtfEroPG//U+kvXzg==}
+  ai@5.0.97:
+    resolution: {integrity: sha512-8zBx0b/owis4eJI2tAlV8a1Rv0BANmLxontcAelkLNwEHhgfgXeKpDkhNB6OgV+BJSwboIUDkgd9312DdJnCOQ==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.25.76 || ^4.1.8
@@ -1892,8 +1892,8 @@ packages:
   caniuse-api@3.0.0:
     resolution: {integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==}
 
-  caniuse-lite@1.0.30001755:
-    resolution: {integrity: sha512-44V+Jm6ctPj7R52Na4TLi3Zri4dWUljJd+RDm+j8LtNCc/ihLCT+X1TzoOAkRETEWqjuLnh9581Tl80FvK7jVA==}
+  caniuse-lite@1.0.30001756:
+    resolution: {integrity: sha512-4HnCNKbMLkLdhJz3TToeVWHSnfJvPaq6vu/eRP0Ahub/07n484XHhBF5AJoSGHdVrS8tKFauUQz8Bp9P7LVx7A==}
 
   ccount@2.0.1:
     resolution: {integrity: sha512-eyrF0jiFpY+3drT6383f1qhkbGsLSifNAjA61IUjZjmLCWjItY6LB9ft9YhoDgwfmclB2zhu51Lc7+95b8NRAg==}
@@ -2355,8 +2355,8 @@ packages:
   ee-first@1.1.1:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
 
-  electron-to-chromium@1.5.256:
-    resolution: {integrity: sha512-uqYq1IQhpXXLX+HgiXdyOZml7spy4xfy42yPxcCCRjswp0fYM2X+JwCON07lqnpLEGVCj739B7Yr+FngmHBMEQ==}
+  electron-to-chromium@1.5.257:
+    resolution: {integrity: sha512-VNSOB6JZan5IQNMqaurYpZC4bDPXcvKlUwVD/ztMeVD7SwOpMYGOY7dgt+4lNiIHIpvv/FdULnZKqKEy2KcuHQ==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -4966,11 +4966,11 @@ packages:
 
 snapshots:
 
-  '@ai-sdk/gateway@2.0.11(zod@4.1.12)':
+  '@ai-sdk/gateway@2.0.12(zod@4.1.12)':
     dependencies:
       '@ai-sdk/provider': 2.0.0
       '@ai-sdk/provider-utils': 3.0.17(zod@4.1.12)
-      '@vercel/oidc': 3.0.3
+      '@vercel/oidc': 3.0.5
       zod: 4.1.12
 
   '@ai-sdk/provider-utils@3.0.17(zod@4.1.12)':
@@ -4984,10 +4984,10 @@ snapshots:
     dependencies:
       json-schema: 0.4.0
 
-  '@ai-sdk/react@2.0.95(react@19.2.0)(zod@4.1.12)':
+  '@ai-sdk/react@2.0.97(react@19.2.0)(zod@4.1.12)':
     dependencies:
       '@ai-sdk/provider-utils': 3.0.17(zod@4.1.12)
-      ai: 5.0.95(zod@4.1.12)
+      ai: 5.0.97(zod@4.1.12)
       react: 19.2.0
       swr: 2.3.6(react@19.2.0)
       throttleit: 2.1.0
@@ -6158,11 +6158,11 @@ snapshots:
 
   '@docsearch/react@4.3.2(@algolia/client-search@5.44.0)(@types/react@19.2.6)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(search-insights@2.17.3)':
     dependencies:
-      '@ai-sdk/react': 2.0.95(react@19.2.0)(zod@4.1.12)
+      '@ai-sdk/react': 2.0.97(react@19.2.0)(zod@4.1.12)
       '@algolia/autocomplete-core': 1.19.2(@algolia/client-search@5.44.0)(algoliasearch@5.44.0)(search-insights@2.17.3)
       '@docsearch/core': 4.3.1(@types/react@19.2.6)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@docsearch/css': 4.3.2
-      ai: 5.0.95(zod@4.1.12)
+      ai: 5.0.97(zod@4.1.12)
       algoliasearch: 5.44.0
       marked: 16.4.2
       zod: 4.1.12
@@ -7375,7 +7375,7 @@ snapshots:
 
   '@ungap/structured-clone@1.3.0': {}
 
-  '@vercel/oidc@3.0.3': {}
+  '@vercel/oidc@3.0.5': {}
 
   '@webassemblyjs/ast@1.14.1':
     dependencies:
@@ -7483,9 +7483,9 @@ snapshots:
       clean-stack: 2.2.0
       indent-string: 4.0.0
 
-  ai@5.0.95(zod@4.1.12):
+  ai@5.0.97(zod@4.1.12):
     dependencies:
-      '@ai-sdk/gateway': 2.0.11(zod@4.1.12)
+      '@ai-sdk/gateway': 2.0.12(zod@4.1.12)
       '@ai-sdk/provider': 2.0.0
       '@ai-sdk/provider-utils': 3.0.17(zod@4.1.12)
       '@opentelemetry/api': 1.9.0
@@ -7582,7 +7582,7 @@ snapshots:
   autoprefixer@10.4.22(postcss@8.5.6):
     dependencies:
       browserslist: 4.28.0
-      caniuse-lite: 1.0.30001755
+      caniuse-lite: 1.0.30001756
       fraction.js: 5.3.4
       normalize-range: 0.1.2
       picocolors: 1.1.1
@@ -7694,8 +7694,8 @@ snapshots:
   browserslist@4.28.0:
     dependencies:
       baseline-browser-mapping: 2.8.29
-      caniuse-lite: 1.0.30001755
-      electron-to-chromium: 1.5.256
+      caniuse-lite: 1.0.30001756
+      electron-to-chromium: 1.5.257
       node-releases: 2.0.27
       update-browserslist-db: 1.1.4(browserslist@4.28.0)
 
@@ -7752,11 +7752,11 @@ snapshots:
   caniuse-api@3.0.0:
     dependencies:
       browserslist: 4.28.0
-      caniuse-lite: 1.0.30001755
+      caniuse-lite: 1.0.30001756
       lodash.memoize: 4.1.2
       lodash.uniq: 4.5.0
 
-  caniuse-lite@1.0.30001755: {}
+  caniuse-lite@1.0.30001756: {}
 
   ccount@2.0.1: {}
 
@@ -8223,7 +8223,7 @@ snapshots:
 
   ee-first@1.1.1: {}
 
-  electron-to-chromium@1.5.256: {}
+  electron-to-chromium@1.5.257: {}
 
   emoji-regex@8.0.0: {}
 
